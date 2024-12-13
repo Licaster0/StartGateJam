@@ -1,0 +1,4 @@
+repository "StartGateJamSelviaGames/StartGateJamSelviaGames@18968195119885@cloud"
+  path "/"
+    br "/main"
+    co "/main"
